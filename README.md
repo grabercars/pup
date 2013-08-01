@@ -13,7 +13,7 @@ Cerberus Pup
 
 Cerberus Pup is an experimental 3D Delta Robot printer that uses spectra filament for the vertical carriage drive system instead of traditional toothed belts. Please be aware that there will probably (and most likely) be significant changes and improvements made to this design. - A photo gallery of the Ceberus prototype can be found in the G+ gallery here: http://tinyurl.com/CerberusPup
 
-A BOM is being worked on and will be made available as a spreadsheet in the near future.
+A BOM is available here - http://tinyurl.com/Pup-BOM-Google-Spreadsheet - there are still some issues with the BOM, please contact Steve Graber to help correct any issues you find.
 
 Print Files:
 
